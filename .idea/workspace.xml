@@ -5,7 +5,282 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a110815a-997e-4be0-afc6-b6278a305463" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/background-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/chuan-doan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/doctor-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/doctor-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/gan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/huyet-hoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/huyethoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/insta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/logoEducation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/logoGoogle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/mebau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/med-process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/med-registration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/med-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/med-waiting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/1f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/20180821_182328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/2022-02-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/2023-04-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/2023-05-27(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/2023-05-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/RotateCookiesPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/arrow_back_gm_grey_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/arrow_left_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/cb=gapi.loaded_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/dn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/googlelogo_62x24_with_2_stroke_color_66x26dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/googlelogo_light_62x24_with_2_stroke_color_66x26dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/ic_mod_add_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/lazy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/lockup_maps_color_131x24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/m=_b,_tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/m=hfcr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/result-no-thumbnail-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/rs=AA2YrTtRwVt6cFodq3xsFJ5_o3OglW4NCg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/rs=AA2YrTvs5h4egfyvyBE86LFqJnEpoqO9oA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/rs=ACT90oEF2CH4I7OjruKA5aBqzSpHAjsuPg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/rs=ACT90oHmXWE5oZBQba0ch-N3RA78JVsoIA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/unnamed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi_t_i0_und.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi_tcvn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi_telex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi_viqr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/medlab-1_files/vi_vni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/momo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/namgioi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/nipt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/nugioi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/nuoc-tieu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinh-hoa-mien-dich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinh-hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinh-hoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinhhoa-miendich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinhhoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sinhhoc-phantu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/sony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/tienhonnhan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/tienmat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/tim-mach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/tong-quat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/treem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/vi-chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/vi-sinh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/vi-trung.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/vietqr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/xet-nghiem-dich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/xetnghiemdich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img/zalo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/AdminHeader/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/AdminHeader/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/AdminHeader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/AdminSidebarLeft/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Blog/BlogList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Footer/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Footer/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Header/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/types/blog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/TikTokDisplayFont-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/TikTokDisplayFont-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/TikTokFont-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/TikTokFont-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/TikTokFont-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/background-step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/chuan-doan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/doctor-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/doctor-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/gan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/huyet-hoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/huyethoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/insta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/logoEducation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/logoGoogle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/mebau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/med-process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/med-registration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/med-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/med-waiting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/1f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/20180821_182328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/2022-02-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/2023-04-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/2023-05-27(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/2023-05-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/RotateCookiesPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/arrow_back_gm_grey_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/arrow_left_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/cb=gapi.loaded_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/dn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/googlelogo_62x24_with_2_stroke_color_66x26dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/googlelogo_light_62x24_with_2_stroke_color_66x26dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/ic_mod_add_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/lazy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/lockup_maps_color_131x24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/m=_b,_tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/m=hfcr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/result-no-thumbnail-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/rs=AA2YrTtRwVt6cFodq3xsFJ5_o3OglW4NCg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/rs=AA2YrTvs5h4egfyvyBE86LFqJnEpoqO9oA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/rs=ACT90oEF2CH4I7OjruKA5aBqzSpHAjsuPg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/rs=ACT90oHmXWE5oZBQba0ch-N3RA78JVsoIA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/unnamed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi_t_i0_und.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi_tcvn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi_telex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi_viqr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/medlab-1_files/vi_vni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/momo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/namgioi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/nipt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/nugioi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/nuoc-tieu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinh-hoa-mien-dich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinh-hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinh-hoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinhhoa-miendich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinhhoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sinhhoc-phantu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/sony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/tienhonnhan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/tienmat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/tim-mach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/tong-quat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/treem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/vi-chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/vi-sinh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/vi-trung.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/vietqr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/xet-nghiem-dich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/xetnghiemdich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/img/zalo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/lamborghini.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/mtp-2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/mtp1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/sayhi.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/video/sony.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccounItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GlobalStyle/GlobalStyle.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GlobalStyle/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Blog/CreateBlogModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Blog/DeleteModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Blog/EditBlogModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Blog/PreviewBlogModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/BookingModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/LoginModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/NavigateModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Service/CreateServiceModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Service/DeleteModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/Service/EditServiceModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/MenuItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/SearchUserResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Menu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Popper.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/Wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Rating/Rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/BlogTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/LessonTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/ServiceTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/UserTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AuthModalContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/LoadingContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/ModalContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helper/formateDDMMYYYY.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helper/rendeContentWithHighlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/Debounced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/ScrollToTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/AdminLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/DefaultLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/NoneLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/AdminHeader/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/AdminHeader/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/AdminHeader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/AdminSidebarLeft/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Footer/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Footer/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Header/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/components/Sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AdminBlogPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AdminServicePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/BlogPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/DetailsBlogPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LookUpPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PricePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UnitLookUpPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,31 +290,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2piJtbDyrpaRwWXLQaRUxuRAiPT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Admin/Downloads/cloud-cache/next-js/src/app/product",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\Admin\\Downloads\\cloud-cache\\next-js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lengocloc/Documents/cloud-cache/next-js/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/lengocloc/Documents/cloud-cache/next-js/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/app" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\Admin\Downloads\cloud-cache\next-js\src\app\product" />
       <recent name="C:\Users\Admin\Downloads\cloud-cache\next-js\src\app" />
     </key>
@@ -65,6 +350,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733243178906</updated>
       <workItem from="1733243181791" duration="4979000" />
+      <workItem from="1733885793189" duration="6947000" />
+      <workItem from="1734052220795" duration="8285000" />
     </task>
     <servers />
   </component>
@@ -75,5 +362,17 @@
         <option value="$PROJECT_DIR$/tailwind.config.js" />
       </list>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/page.tsx</url>
+          <line>96</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
