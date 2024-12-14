@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
     images: {
+        domains: ['localhost'],  // Thêm localhost vào danh sách các domain hợp lệ
         remotePatterns: [
             {
                 protocol: 'https',                 // Giao thức HTTPS

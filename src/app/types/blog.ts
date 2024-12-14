@@ -4,5 +4,9 @@ export interface Blog {
     content: string;
     createdAt: string;
     category: string;
-    Image: string;
+    img: string;
+}
+
+export interface BlogList {
+    blogs: Blog[];
 }

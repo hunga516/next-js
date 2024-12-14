@@ -8,26 +8,11 @@ import Image from "next/image";
 import {BlogList} from "@/app/components/Blog/BlogList";
 import {GetServerSideProps} from "next";
 import {getBlogs} from "@/app/services/api";
+import {Blog} from "@/app/types/blog";
 
-export const getServerSideProps : GetServerSideProps = async (context) => {
-    try {
-        const blogs = await getBlogs();
-        return {
-            props: {
-                blogs,
-            },
-        };
-    } catch (error) {
-        return {
-            props: {
-                error: JSON.stringify(error), // Serialize lỗi để tránh lỗi không tuần tự hóa.
-            },
-        };
-    }
-};
+export default async function HomePage() {
+    const blogs:Blog[] = await getBlogs();
 
-
-export default function HomePage() {
     return (
         <>
             {/*Hero section*/}
@@ -515,7 +500,7 @@ export default function HomePage() {
             </div>
 
             {/*Tin tức section*/}
-            {/*<BlogList blogs={} />*/}
+            <BlogList blogs={blogs} />
         </>
     );
 }

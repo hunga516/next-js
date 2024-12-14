@@ -3,10 +3,10 @@ import {FaArrowRightLong} from "react-icons/fa6";
 import Image from "next/image";
 import formateDDMMYYYY from "@/helper/formateDDMMYYYY";
 import {renderContentWithHighlight} from "@/helper/rendeContentWithHighlight";
+import {Blog} from "@/app/types/blog";
 
 
-export const BlogList: React.FC<BlogListProps> = ({blogs}) => {
-
+export const BlogList: React.FC<{ blogs: Blog[] }> = ({ blogs }) => {
     return (
         <div className="mt-12 md:mt-20 md:px-8 lg:px-0 lg:mx-32">
             <div className="flex items-center justify-between">
@@ -23,9 +23,12 @@ export const BlogList: React.FC<BlogListProps> = ({blogs}) => {
                         <Link href={`/blog/${blog.id}`} key={index}>
                             <div className="grid-item">
                                 <div className="relative">
-                                    <Image src={`${process.env.REACT_APP_ASP_NET_CORE_APP_URL}${blog.Image}`}
+                                    <Image src={`${process.env.REACT_APP_ASP_NET_CORE_APP_URL}${blog.img}`}
                                            alt="hinh anh tin tuc"
-                                           className="rounded-md h-40 w-full object-cover"/>
+                                           className="rounded-md h-40 w-full object-cover"
+                                           width={100}
+                                           height={100}
+                                    />
                                     <div
                                         className="absolute px-2 py-1 bg-yellow-500 text-white border-white outline outline-offset-0 outline-4 outline-white text-[10px] rounded-md bottom-0 left-0 before:w-[25px] before:h-[25px] before:shadow-curve-bl-4px before:rounded-md before:absolute before:left-0 before:-top-[29px] after:absolute after:w-[25px] after:h-[25px] after:bottom-0 after:-right-[29px] after:shadow-curve-bl-4px after:rounded-md">
                                         {blog.category}
@@ -36,9 +39,7 @@ export const BlogList: React.FC<BlogListProps> = ({blogs}) => {
                                         <p className="text-blue-500 text-xs">{formateDDMMYYYY(blog.createdAt)}</p>
                                     </div>
                                     <h2 className="text-lg font-medium">{blog.title}</h2>
-                                    <p className="text-slate-600 max-h-16 overflow-hidden text-ellipsis">
-                                        {renderContentWithHighlight(blog?.content)}
-                                    </p>
+                                    <div className="blog-content h-16 overflow-hidden" dangerouslySetInnerHTML={{__html: blog.content}}/>
                                 </div>
                             </div>
                         </Link>
