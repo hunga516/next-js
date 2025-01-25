@@ -1,0 +1,11 @@
+.input {
+
+}   
+
+.searchIcon{
+
+}
+
+.input:not(:placeholder-shown) ~ .searchIcon{
+    color: rgb(35, 35, 35)
+}
