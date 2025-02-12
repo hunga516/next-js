@@ -2,7 +2,7 @@ import {users} from "@/app/api/user/route";
 
 export async function GET(req: Request, { params } : {
     params: {
-        id: string;
+        id: string; //
     }
 }) {
     const { id } = await params
