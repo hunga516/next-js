@@ -9,4 +9,4 @@ export async function GET(req: Request, { params } : {
     const user = users.find(user => user.id === parseInt(id))
 
     return Response.json(user);
-}
+},
